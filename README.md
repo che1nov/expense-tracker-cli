@@ -121,10 +121,6 @@ $ expense-tracker summary --month 8
 # Total expenses for August: $20
 ```
 
-## Contribution
-
-Feel free to fork this repository and contribute to the project. Pull requests are welcome.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
